@@ -1,0 +1,11 @@
+[package]
+name = "si-tropical-attention"
+version = "0.1.0"
+edition = "2021"
+description = "Proof of concept: sparse attention IS tropical matrix multiplication — max-plus semiring maps exactly to softmax with sparsity"
+license = "MIT"
+repository = "https://github.com/SuperInstance/si-tropical-attention"
+keywords = ["tropical", "attention", "semiring", "sparse", "transformer"]
+categories = ["algorithms", "mathematics", "science"]
+
+[dependencies]
